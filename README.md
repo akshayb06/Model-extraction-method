@@ -124,6 +124,3 @@ python <your-pipeline-entry-script>.py
 3. H. Jia et al. *Entangled Watermarks as a Defense against Model Extraction.* USENIX Security, 2021.
 4. *A Systematic Survey of Model Extraction Attacks and Defenses.* arXiv:2508.15031, 2025.
 
-## Acknowledgements
-
-Guided by **Dr. Neetu S**, Department of CSE.
