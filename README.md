@@ -6,8 +6,6 @@ Web tool that watermarks AI models to detect theft via extraction attacks — up
 # Model Extraction Attacks & Watermark Defense in ML APIs
 
 **Theme:** Artificial Intelligence & Cybersecurity
-**Mentor:** Dr. Neetu S, Assistant Professor, Department of CSE
-**Phase:** EL Phase 1
 
 ---
 
@@ -111,7 +109,7 @@ cd <your-repo-folder>
 
 # Research pipeline
 pip install -r requirements.txt
-python <your-pipeline-entry-script>.py
+loading.......
 
 # Web tool
 # Open the HTML file in a browser (no build step required)
